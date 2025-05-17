@@ -72,7 +72,9 @@ You: Can you add 5 and 3?
 Assistant: The sum of 5.0 and 3.0 is 8.0
 ```
 
-## 🧰 Tool: Calculator
+## 🧰 Tools
+
+### Calculator
 
 A simple tool that takes two floats and returns their sum.
 
