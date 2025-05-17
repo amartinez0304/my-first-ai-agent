@@ -18,7 +18,7 @@ def calculator(a:float, b:float) -> str:
         str: _description_
     """
     print("Tool has been called")
-    return f"The sume of {a} and {b} is {a + b}"
+    return f"The sum of {a} and {b} is {a + b}"
     
 
 def main():
